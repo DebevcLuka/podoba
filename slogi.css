@@ -1,0 +1,40 @@
+html,body {
+	margin: 0px;
+	padding:0px;
+}
+
+#Vrh {
+	background-color: blue;
+	height: 150px;
+}
+#Center {
+	background-color: green;
+	min-height: 700px;
+	width: 950px;
+	margin: 0 auto 0;
+	padding: 20px;
+	text-align: center;
+}
+h1 {
+	font-weight: bold;
+	font-family: verdana;
+	font-size: 40px;	
+}
+#Noga {
+	background-color: yellow;
+	height: 200px;
+}
+
+#Tri {
+	display: flex;
+	margin: 0px;
+	flex-direction: row;
+}
+#leva {
+	background-color: cyan;
+	width: 1400px;
+}
+#desna{
+	background-color: purple;
+	width: 1400px;
+}
